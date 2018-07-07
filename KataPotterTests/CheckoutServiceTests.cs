@@ -5,7 +5,7 @@ using NUnit.Framework;
 namespace KataPotterTests
 {
    [TestFixture]
-    public class UnitTest1
+    public class CheckoutServiceTests
     {
 
         [Test]
